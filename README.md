@@ -1,6 +1,3 @@
-# CPU-hardware
- A C program to determine the hardware (CPU AND RAM) on the machine.
-
 #include <stdio.h>
 #include <windows.h>
 
